@@ -1,0 +1,55 @@
+body {
+    background-color:  #cabfb6;
+    text-align: center;
+    font-family: 'Open Sans', sans-serif;
+}
+.page {
+    background-color: white;
+    padding: 100px;
+
+}
+
+a {
+    background-color: #c9793b;
+    color: black;
+    padding: 10px 30px;
+    text-decoration: none;
+    font-size: 20px;
+    border-radius: 7px;
+}
+
+a:hover {
+    border: 1px solid black;
+}
+
+h2 {
+    font-family: 'Proza Libre', sans-serif;
+    text-align: left;
+    margin-bottom: 40px
+}
+
+p {
+    text-align: left;
+    line-height: 32px;
+    margin-top: -27px;
+    font-size: 20px
+}
+
+.header {
+    margin-top: 40px
+}
+
+.paragragh {
+    margin-top: 50px;
+}
+
+.dots {
+    text-align: left;
+    font-size: 20px;
+}
+
+.apple {
+    margin-left: 20px;
+    background-color: #b6bcca;
+}
+
